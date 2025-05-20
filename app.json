@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "aplicacion",
-    "slug": "aplicacion",
+    "slug": "sistema-de-recompensas",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -24,6 +24,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "a29de5e1-4a2c-41c5-a468-a377c7e90f17"
+      }
+    },
+    "owner": "israel-hernandez-martinez-b8"
   }
 }
